@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, Mundo! 👋 Sou a Gabrielle Ribeiro
 
-<!--
-**Gaab-elle/Gaab-elle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software e Ciência de Dados
+💡 Apaixonada por tecnologia, inovação e empreendedorismo  
+🚀 Criadora da FastLap Solutions e da K’Brownie  
+👩‍💻 Atualmente desenvolvendo um sistema para gestão de residenciais
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- [Sistema de Gestão Condominial](link-projeto)
+- [FastLap Solutions](link)
+- [K’Brownie](link)
+
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/gabrielle-ribeiro10)
+• [Email](mailto:seu@email.com)
+
