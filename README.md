@@ -1,8 +1,8 @@
 # Olá, Mundo! 👋 Sou a Gabrielle Ribeiro
 
-🎓 Estudante de Engenharia de Software e Ciência de Dados
+🎓 Estudante de Biomedicina e Ciência de Dados
 💡 Apaixonada por tecnologia, inovação e empreendedorismo  
-🚀 Criadora da FastLap Solutions e da K’Brownie  
+🚀 Criadora da FastLap Solutions e Co-criadora da K’Brownie  
 👩‍💻 Atualmente desenvolvendo um sistema para gestão de residenciais
 
 ## 🚀 Tecnologias e Ferramentas
