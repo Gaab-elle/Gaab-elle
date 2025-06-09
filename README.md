@@ -2,7 +2,7 @@
 
 🎓 Estudante de Biomedicina e Ciência de Dados
 💡 Apaixonada por tecnologia, inovação e empreendedorismo  
-🚀 Criadora da FastLap Solutions e Co-criadora da K’Brownie  
+🚀 Co-criadora da Yggdra Group 
 👩‍💻 Atualmente desenvolvendo um sistema para gestão de residenciais
 
 ## 🚀 Tecnologias e Ferramentas
@@ -13,7 +13,7 @@
 
 ## 📌 Projetos em Destaque
 - [Sistema de Gestão Condominial](link-projeto)
-- [FastLap Solutions](link)
+- [Yggdra Group](link)
 - [K’Brownie](link)
 
 ## 📫 Contato
