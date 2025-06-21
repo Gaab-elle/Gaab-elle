@@ -21,7 +21,7 @@
 
 ## 🌟 Projetos em Destaque
 
-- 🔐 [Sistema de Gestão Condominial](https://github.com/gaab-elle/gestao-condominios)  
+- 🔐 [Sistema de Gestão Condominial](https://github.com/gaab-elle/sistema_imobiliaria)  
   Sistema completo para controle de residenciais, otimização de processos e administração digital.
 
 - 🖥️ [Yggdra Group - Site Institucional](https://yggdragroup.com)  
