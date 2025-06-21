@@ -21,7 +21,7 @@
 
 ## 🌟 Projetos em Destaque
 
-- 🔐 [Sistema de Gestão Condominial](https://github.com/Gaab-elle/Nereus-Imov)  
+- 🏢 [Sistema de Gestão Condominial](https://github.com/Gaab-elle/Nereus-Imov)  
   Sistema completo para controle de residenciais, otimização de processos e administração digital.
 
 - 🖥️ [Yggdra Group - Site Institucional](https://github.com/Gaab-elle/yggdrasite)  
