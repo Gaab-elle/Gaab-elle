@@ -1,9 +1,6 @@
-# Olá, Mundo! 👋 Sou a Gabrielle Ribeiro
+# Olá, Mundo! 👋 Sou Gabrielle Ribeiro
 
-🎓 Estudante de Biomedicina e Ciência de Dados
-💡 Apaixonada por tecnologia, inovação e empreendedorismo  
-🚀 Co-criadora da Yggdra Group 
-👩‍💻 Atualmente desenvolvendo um sistema para gestão de residenciais
+Co-CEO @YggdraGroup | Dev Fullstack | Cybersecurity & Tech Support | Apaixonada por desafios.
 
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -13,7 +10,7 @@
 
 ## 📌 Projetos em Destaque
 - [Sistema de Gestão Condominial](link-projeto)
-- [Yggdra Group](link)
+- [Yggdra Group](http://localhost:5174/)
 - [K’Brownie](link)
 
 ## 📫 Contato
