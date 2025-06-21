@@ -21,13 +21,13 @@
 
 ## 🌟 Projetos em Destaque
 
-- 🔐 [Sistema de Gestão Condominial](https://github.com/gaab.elle/gestao-condominios)  
+- 🔐 [Sistema de Gestão Condominial](https://github.com/gaab-elle/gestao-condominios)  
   Sistema completo para controle de residenciais, otimização de processos e administração digital.
 
 - 🖥️ [Yggdra Group - Site Institucional](https://yggdragroup.com)  
   Portal da empresa YggdraGroup, unindo desenvolvimento de software e suporte técnico com identidade única.
 
-- 🛠️ [Sistema de OS para Técnicos de Hardware](https://github.com/gaab.elle/assistencia_tecnica_os)  
+- 🛠️ [Sistema de OS para Técnicos de Hardware](https://github.com/gaab-elle/assistencia_tecnica_os)  
   Plataforma para controle de ordens de serviço, ideal para assistências técnicas e gestão de atendimentos.
 
 ---
