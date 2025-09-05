@@ -1,7 +1,7 @@
 # 👋 Olá, Mundo! Eu sou Gabrielle Ribeiro
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Co-CEO+%40;Fullstack+Developer;PHP+LARAVEL+%26+Tech+Support;Apaixonada+por+tecnologia!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+%40;Fullstack+Developer;PHP+LARAVEL+%26+Tech+Support;Apaixonada+por+tecnologia!&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
