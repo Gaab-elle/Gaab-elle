@@ -1,12 +1,12 @@
-# 👋 Olá, Mundo! Eu sou Gabrielle Ribeiro
+# 👋 Olá, Mundo! Sou Gabrielle Ribeiro
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=+%40;Fullstack+Developer;PHP+LARAVEL+%26+Tech+Support;Apaixonada+por+tecnologia!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=;Fullstack+Developer;PHP+LARAVEL+%26+Tech+Support;Apaixonada+por+tecnologia!&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
 
-| Desenvolvedora Fullstack | PHP | LARAVEL | PYTHON |
+ Desenvolvedora Fullstack | PHP | LARAVEL | PYTHON 
 
  Sou apaixonada por desafios tecnológicos e soluções criativas que fazem a diferença no mundo digital. Atualmente lidero projetos inovadores na YggdraGroup, focando em desenvolvimento de software robusto e segurança cibernética.
 
