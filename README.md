@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre Mim
 
-🎯 **Co-CEO @YggdraGroup** | Desenvolvedora Fullstack especializada em Cybersecurity & Suporte Técnico
+| Desenvolvedora Fullstack | PHP | LARAVEL | PYTHON
 
-💡 Sou apaixonada por desafios tecnológicos e soluções criativas que fazem a diferença no mundo digital. Atualmente lidero projetos inovadores na YggdraGroup, focando em desenvolvimento de software robusto e segurança cibernética.
+ Sou apaixonada por desafios tecnológicos e soluções criativas que fazem a diferença no mundo digital. Atualmente lidero projetos inovadores na YggdraGroup, focando em desenvolvimento de software robusto e segurança cibernética.
 
 ---
 
@@ -76,7 +76,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielle-ribeiro10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabz-ribeiro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeiro.gabrielle989@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
 
