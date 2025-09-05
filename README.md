@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-| Desenvolvedora Fullstack | PHP | LARAVEL | PYTHON
+| Desenvolvedora Fullstack | PHP | LARAVEL | PYTHON |
 
  Sou apaixonada por desafios tecnológicos e soluções criativas que fazem a diferença no mundo digital. Atualmente lidero projetos inovadores na YggdraGroup, focando em desenvolvimento de software robusto e segurança cibernética.
 
